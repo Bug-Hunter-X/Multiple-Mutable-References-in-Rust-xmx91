@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: using multiple mutable references to the same data.  The code in `bug.rs` shows how this can lead to undefined behavior. The corrected code in `bugSolution.rs` offers a few ways to handle this safely.
